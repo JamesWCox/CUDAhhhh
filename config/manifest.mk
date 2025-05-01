@@ -7,9 +7,16 @@
 # @section notes_manifest.mk     Notes
 # @section todo_manifest.mk      TODO
 # @section resources_manifest.mk Resources
+PROJECT:="CUDAhhhh"
 
-# GH_URL should have already been included, but need to test 
 #MANIFEST=
-#MANIFEST+=$(GH_URL)/JamesWCox/Example
-#MANIFEST+=$(GH_URL)/JamesWCox/Demo
+#MANIFEST+=$(GH_URL)/<USERS>/<REPO>
 
+#SUBMODULES=
+#SUBMODULES+=$(GH_URL)/<USERS>/<REPO>
+
+#PRIVATE_REPOS=
+#PRIVATE_REPOS+=$(GH_URL)/<USERS>/<REPO>
+
+#INSTALL_PKG=
+#INSTALL_PKG+=$(GH_URL)/<USERS>/<REPO>
